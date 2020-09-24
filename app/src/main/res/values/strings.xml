@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">One World</string>
+    <string name="name">Name</string>
+    <string name="capital_city">Capital City</string>
+    <string name="subregion">SubRegion, Region</string>
+    <string name="country_code">Country Code</string>
+</resources>
